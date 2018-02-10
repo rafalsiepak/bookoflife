@@ -7,6 +7,6 @@ Here you can find all necessary information to join the project including costs 
 Currently a repository includes:
 
 - readme.md file
-- framework folder
-- cost and benefits.md
+- how do you start?
+- generalframeworkforsketch
 
