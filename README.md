@@ -1,5 +1,6 @@
 # bookoflife
-Book of Life - framework.
+
+Book of Life
 
 Here you can find all necessary information to join the project including costs and benefits. 
 
