@@ -6,7 +6,7 @@ Here you can find all necessary information to join the project including costs 
 
 Currently a repository includes:
 
-- readme.md file
-- how do you start?
-- generalframeworkforsketch
+- readme.md 
+- how do you start.md
+- book of life - framework.sketch
 
